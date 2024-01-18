@@ -1,3 +1,5 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
 <div>
     <div display="flex">
         <h2> Seja bem vindo! </h2>
@@ -96,6 +98,8 @@
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
+    </foreignObject>
+</svg>
 
 <!--
 **DanielManfrini/DanielManfrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
