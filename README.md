@@ -13,12 +13,8 @@
   
   <h3>  Servidores:  </h3>
   <div style="display: flex, flex-direction: row">
-    <span style="max-width: 5% !important">
-      <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    </span>
-    <span style="max-width: 5% !important">
-      <img style="max-width: 5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" /> 
-    </span>     
+      <img width="5%"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+      <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" /> 
   </div>    
 </div>
 
