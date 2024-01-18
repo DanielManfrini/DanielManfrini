@@ -1,11 +1,9 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-
 <div>
     <h2> Seja bem vindo! </h2>
-    <h3> Me chamo daniel, sou um entusiasta por tecnologia e amo me aventurar em novos desafios! </h3>
+    <h3> Me chamo daniel</h3>
+    <h4> Um entusiasta por tecnologia que ama se aventurar em novos desafios! </h4>
 </div>
-
+<br />
 <div>
     <h2> Habilidades! </h2>
     <h3>  Desenvolvimento web:  </h3>
@@ -48,10 +46,11 @@
         <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
         <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
         <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+        <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
     </div>
 </div>
-
-<!--<div>
+<br />
+<div>
   <h2> Aprendendo! </h2>
   <div style="display: flex, flex-direction: row">
     <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />    
@@ -61,8 +60,8 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
                              
   </div>    
-</div>-->
-
+</div>
+<br />
 <div>
   <h2> Planos! </h2>
 </div>
