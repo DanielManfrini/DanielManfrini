@@ -1,8 +1,14 @@
 <div>
  <div class="header" >
   <h2> Seja bem vindo! </h2>
-  <h3> Me chamo daniel</h3>
-  <h4> Me considero um entusiasta por tecnologia com um apreço a se aventurar em novos desafios! </h4>
+  <h3> Me chamo daniel</h3>  
+  <ul>
+   <li>  Analista de sistemas júnior  </li>
+   <li>  Residente em curitiba  </li>
+   <li>  Métodologia scrum  </li>
+   <li>  Entusiasta por tecnologia  </li>
+   <li>  Topo qualquer desafio  </li>
+  </ul>
  </div>
 </div>
 
@@ -70,21 +76,11 @@
 <br />
 
 <div>
- <h2> Planos! </h2>
- <li>
-  <ul>  </ul>
-  <ul>  </ul>
-  <ul>  </ul>
-  <ul>  </ul>
- </li>
-</div>
-
-<div>
  <h2> Onde me encontrar! </h2>
  <a 
   href="https://www.linkedin.com/in/daniel-lopes-manfrini-5682a41b3/" 
   target="_blank"
  >   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />          
+  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />          
  </a>
 </div>
