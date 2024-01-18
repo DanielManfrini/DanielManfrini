@@ -2,7 +2,7 @@
  <div class="header" >
   <h2> Seja bem vindo! </h2>
   <h3> Me chamo daniel</h3>
-  <h4> Me considero um entusiasta por tecnologia que ama se aventurar em novos desafios! </h4>
+  <h4> Me considero um entusiasta por tecnologia com um apreço a se aventurar em novos desafios! </h4>
  </div>
 </div>
 
