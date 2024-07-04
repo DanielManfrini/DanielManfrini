@@ -3,7 +3,7 @@
   <h2> Seja bem vindo! </h2>
   <h3> Me chamo daniel</h3>  
   <ul>
-   <li>  Analista de sistemas júnior  </li>
+   <li>  DEsenvolvedor de sistemas  </li>
    <li>  Residente em curitiba  </li>
    <li>  Métodologia scrum  </li>
    <li>  Entusiasta por tecnologia  </li>
